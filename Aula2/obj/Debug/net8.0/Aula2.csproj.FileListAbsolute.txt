@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\aluno\Documents\Luis Otávio 1DS2\C#\Aula2\Aula2\obj\Debug\net8.0\ref\Aula2.dll
